@@ -1,0 +1,18 @@
+{
+  "name": "com.rxkj.arttools",
+  "version": "1.0.0",
+  "displayName": "ArtTools",
+  "description": "this is an art tool package",
+  "unity": "2017.1",
+  "unityRelease": "0b5",
+  "dependencies": {
+  },
+  "keywords": [
+    "art tool"
+  ],
+  "author": {
+    "name": "RXKJ",
+    "email": "unity@example.com",
+    "url": "https://www.unity3d.com"
+  }
+}
